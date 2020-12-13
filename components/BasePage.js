@@ -37,7 +37,7 @@ const BasePage = props => {
         <meta property="og:description" key="og:description" content={metaDescription} />
         <meta property="og:image" key="og:image" content={`${process.env.BASE_URL}/images/section-1.png`} />
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet"></link>
-        <link rel="icon" type="image/x-icon" href="/images/favicon.ico"/>
+        <link rel="icon" type="image/x-icon" href="/images/kanye-bear.png"/>
         <link
           rel="canonical"
           href={`${process.env.BASE_URL}${canonicalPath ? canonicalPath : router.asPath}`} />

@@ -16,13 +16,6 @@ const SecretSSR = ({user, title}) => {
   )
 }
 
-// export const getServerSideProps = async ({req, res}) => {
-//   const user = await authorizeUser(req, res);
-
-//   return {
-//     props: { user }
-//   }
-// }
 
 const getTitle = () => {
   return new Promise((res) => {
