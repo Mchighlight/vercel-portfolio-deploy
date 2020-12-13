@@ -29,7 +29,7 @@ const Index = () => {
       loading={loading}
       navClass="transparent"
       className={`cover ${isFlipping ? 'cover-orange' : 'cover-blue'}`}>
-      <BasePage indexPage title="Portfolio - Filip Jerga">
+      <BasePage indexPage title="Portfolio - Hung-Chih Huang">
         <div className="main-section">
           <div className="background-image">
             <img src="/images/background-index.png" />
@@ -42,7 +42,7 @@ const Index = () => {
                     <div className="front">
                       <div className="image image-1">
                         <div className="hero-section-content">
-                          <h2> Full Stack Developer </h2>
+                          <h2> Software Engineer and Data Engineer </h2>
                           <div className="hero-section-content-intro">
                             Have a look at my portfolio and job history.
                           </div>
@@ -55,7 +55,7 @@ const Index = () => {
                     <div className="back">
                       <div className="image image-2">
                         <div className="hero-section-content">
-                          <h2>React and Next is Amazing!</h2>
+                          <h2>Data is Amazing!</h2>
                           <div className="hero-section-content-intro">
                             Software developer ready for a project of any type!
                           </div>
@@ -71,8 +71,8 @@ const Index = () => {
               <Col md="6" className="hero-welcome-wrapper">
                 <div className="hero-welcome-text">
                   <h1>
-                    Welcome to the portfolio website of Filip Jerga.
-                    Get informed, collaborate and discover projects I was working on through the years!
+                    Welcome to the portfolio website of Hung-Chih Huang.
+                    Get informed, collaborate and discover projects I was working on 
                   </h1>
                 </div>
                 <Typed

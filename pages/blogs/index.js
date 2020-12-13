@@ -15,10 +15,10 @@ const Blogs = ({blogs}) => {
       user={data} loading={loading}>
       <Masthead imagePath="/images/home-bg.jpg">
         <h1>Fresh Blogs</h1>
-        <span className="subheading">Programming, travelling...</span>
+        <span className="subheading">Programming, Fooding...</span>
       </Masthead>
       <BasePage
-        title="Newest Blogs - Filip Jerga"
+        title="Newest Blogs - Hung-Chih Huang"
         className="blog-body">
         <Row>
           {

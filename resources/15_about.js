@@ -8,17 +8,14 @@
   </Col>
   <Col md="6">
     <div className={``}>
-      <p>My name is Filip Jerga and I am an experienced software engineer and freelance developer. </p>
+      <p>My name is Hung-Chih Huang calls me Henry Huang. I am an experienced software engineer and Master student in Northeastern University. </p>
       <p>
-      I have a Master's degree in Artificial Intelligence and several years of experience working
-      on a wide range of technologies and projects from C++ development for ultrasound devices to
-        modern mobile and web applications in React and Angular.
+      I am an Information technology enthusiast who is currently pursuing my master's in information systems 
+              and majoring in Big Data and Cloud Computing at northeastern university with an aim to build a career as both Data Engineer and DevOps.
       </p>
       <p>
-      Throughout my career, I have acquired advanced technical knowledge and the ability to explain
-      programming topics clearly and in detail to a broad audience. I invite you to take my course,
-      where I have put a lot of effort to explain web and software engineering concepts in a detailed,
-      hands-on and understandable way.
+      Mesmerized by the excitement made by data science in E-commerce, Music streaming, Social Networking, and so on. I am looking for a work build data solution that mixed up data and cook up information out of it. 
+      Currently, I am looking for a co-op opportunity in Summer 2021.
       </p>
     </div>
   </Col>

@@ -28,7 +28,7 @@ const BsNavLink = props => {
 
 const BsNavBrand = () =>
   <Link href="/">
-    <a className="navbar-brand port-navbar-brand">Filip Jerga</a>
+    <a className="navbar-brand port-navbar-brand">Hung-Chih Huang</a>
   </Link>
 
 const LoginLink = () =>

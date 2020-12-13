@@ -13,7 +13,7 @@ const BlogDetail = ({blog, author}) => {
   return (
     <BaseLayout user={data} loading={loading}>
       <BasePage
-        title={`${blog.title} - Filip Jerga`}
+        title={`${blog.title} - Hung-Chih Huang`}
         metaDescription={blog.subTitle}
         className="slate-container">
         <Row>

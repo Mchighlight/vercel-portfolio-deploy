@@ -31,7 +31,7 @@
               </a>
             </Link>
             <p className="post-meta">Posted by
-              <a href="#"> Filip Jerga </a>
+              <a href="#"> Hung-Chih Huang </a>
               - 11/11/2011
             </p>
           </div>
@@ -52,7 +52,7 @@
               </a>
             </Link>
             <p className="post-meta">Posted by
-              <a href="#"> Filip Jerga </a>
+              <a href="#"> Hung-Chih Huang </a>
               - 11/11/2011
             </p>
           </div>

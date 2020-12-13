@@ -16,8 +16,8 @@ const BasePage = props => {
     indexPage,
     className = '',
     header,
-    title = "Portfolio - Filip Jerga",
-    metaDescription="My name is Filip Jerga and I am an experienced software engineer and freelance developer. Throughout my career, I have acquired advanced technical knowledge and the ability to explain programming topics clearly and in detail to a broad audience.",
+    title = "Portfolio - Hung-Chih Huang",
+    metaDescription="My name is Hung-Chih Huang and I am an experienced software engineer and freelance developer. Throughout my career, I have acquired advanced technical knowledge and the ability to explain programming topics clearly and in detail to a broad audience.",
     canonicalPath,
     children } = props;
 
